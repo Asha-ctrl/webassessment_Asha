@@ -90,7 +90,7 @@
 
     <!--Enquiries-->
         <div class="row mt-5">
-            <div class="col border mb-3" id=form>
+            <div class="col border mb-3" id=form background color= grey>
             <h2 id=enquiries>Enquire About a Car</h2>
           <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Name</label>
